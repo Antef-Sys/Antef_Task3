@@ -1,0 +1,50 @@
+body {
+    background: linear-gradient(90deg, #b45d1b 0%, #daae51 100%);
+}
+
+.head{
+    color: darkblue;
+}
+.highlight{
+    color: red;
+}
+#bglime{
+    background:linear-gradient(90deg, #9ebd13 0%, #008552 100%) ;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+}
+
+#para{
+    color: rgb(61, 230, 61);
+    font-size: medium;
+}
+
+.phighlight{
+    color: black;
+}
+
+.second p{
+    color: black;
+}
+
+ul li{
+    color: white;
+}
+ul li:nth-child(1) a {
+    background: yellow;
+}
+
+ul li:nth-child(2) a {
+    background: purple;
+}
+
+ol #two{
+    color: blue;
+}
+
+ol #three{
+    color: rgb(226, 26, 26);
+}
