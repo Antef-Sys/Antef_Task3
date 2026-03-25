@@ -108,8 +108,8 @@ linear-gradient(90deg, #b45d1b 0%, #daae51 100%)
 ## ✅ Author
 
 **Antef Idrisi**
-anteftask3.netlify.app
+
 
 ---
-
+https://anteftask3.netlify.app/
 🔥 This project is a basic demonstration of CSS selector power and layout styling.
